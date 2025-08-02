@@ -1,0 +1,502 @@
+Name,Type,Subject,Location,Rating
+Vikram Reddy,Student,"Maths, Biology, Economics",Jaipur,1.8
+Kabir Kumar,Tutor,"Chemistry, Biology",Bangalore,5.0
+Vikram Verma,Tutor,"Maths, Chemistry, Guitar",Bangalore,4.5
+Vikram Verma,Tutor,Guitar,Bangalore,3.1
+Aryan Singh,Tutor,"Maths, Economics",Bangalore,4.9
+Ananya Verma,Tutor,"Economics, Guitar",Chennai,3.6
+Aryan Reddy,Tutor,"Maths, Guitar",Lucknow,3.4
+Arjun Reddy,Tutor,"Biology, Maths",Mumbai,2.4
+Aryan Iyer,Student,Maths,Bangalore, 5.0
+Neha Reddy,Tutor,"Economics, Maths, Chemistry",Kolkata,3.0
+Aisha Reddy,Student,"Economics, Chemistry",Pune,1.3
+Neha Iyer,Institution,"Physics, Guitar",Jaipur,3.7
+Nikhil Singh,Institution,Guitar,Chennai,2.9
+Priya Reddy,Institution,"Maths, Chemistry, Biology",Ahmedabad,1.6
+Priya Sharma,Institution,Physics,Bangalore,3.6
+Rahul Kumar,Institution,Biology,Pune,4.1
+Aisha Singh,Institution,"Guitar, Chemistry, Physics",Mumbai,2.6
+Sanya Singh,Student,"Chemistry, Guitar",Pune,1.6
+Meera Iyer,Institution,"Physics, Maths, Economics",Pune,1.3
+Aisha Kumar,Institution,"Chemistry, Guitar",Mumbai,2.4
+Aryan Verma,Tutor,Maths,Jaipur,2.6
+Rahul Kumar,Student,"Physics, Guitar, Biology",Bangalore,2.4
+Kabir Reddy,Student,Guitar,Chennai,1.7
+Aryan Sharma,Student,Maths,Ahmedabad,4.2
+Priya Singh,Institution,Maths,Bangalore,4.5
+Vikram Reddy,Institution,"Biology, Physics, Maths",Hyderabad,3.3
+Arjun Sharma,Institution,Biology,Mumbai,4.3
+Zoya Kumar,Institution,"Biology, Guitar",Hyderabad,2.9
+Ananya Verma,Tutor,"Biology, Economics",Ahmedabad,2.0
+Zoya Reddy,Tutor,"Physics, Guitar",Lucknow,4.5
+Priya Sharma,Tutor,Chemistry,Mumbai,4.7
+Ananya Singh,Institution,"Maths, Chemistry, Economics",Bangalore,4.8
+Aditya Reddy,Tutor,Guitar,Mumbai,1.4
+Dev Kumar,Institution,Maths,Lucknow,4.5
+Priya Sharma,Student,"Biology, Economics",Mumbai,4.7
+Sanya Reddy,Institution,"Chemistry, Physics",Mumbai,3.9
+Dev Singh,Student,Biology,Ahmedabad,2.3
+Vikram Reddy,Student,"Economics, Physics, Guitar",Delhi,4.8
+Aditya Singh,Tutor,Economics,Jaipur,1.1
+Priya Verma,Tutor,Economics,Ahmedabad,1.9
+Zoya Kumar,Institution,"Maths, Physics",Mumbai,1.9
+Meera Iyer,Student,Guitar,Mumbai,1.8
+Tanya Singh,Institution,"Maths, Physics, Biology",Bangalore,3.2
+Nikhil Iyer,Tutor,Chemistry,Hyderabad,2.9
+Simran Kumar,Institution,Physics,Ahmedabad,2.6
+Priya Sharma,Student,"Guitar, Physics",Ahmedabad,2.1
+Ananya Sharma,Institution,"Biology, Economics",Hyderabad,1.4
+Vikram Verma,Tutor,Maths,Pune,4.5
+Aryan Singh,Tutor,"Physics, Chemistry, Guitar",Bangalore,2.4
+Simran Verma,Student,"Biology, Guitar, Physics",Hyderabad,2.7
+Meera Iyer,Tutor,"Guitar, Economics",Mumbai,3.1
+Aditya Kumar,Tutor,Physics,Pune,2.7
+Kabir Iyer,Institution,Physics,Delhi,2.8
+Rahul Verma,Student,"Biology, Economics",Pune,1.1
+Ishaan Verma,Student,Economics,Chennai,2.3
+Aryan Kumar,Institution,"Physics, Economics, Biology",Ahmedabad,3.6
+Tanya Iyer,Tutor,"Guitar, Chemistry, Economics",Chennai,5.0
+Priya Singh,Institution,"Physics, Biology",Jaipur,1.4
+Dev Verma,Tutor,"Chemistry, Biology",Mumbai,1.8
+Kriti Verma,Tutor,Chemistry,Mumbai,3.8
+Meera Sharma,Institution,"Economics, Maths",Pune,3.9
+Tanya Verma,Tutor,Biology,Chennai,2.8
+Arjun Singh,Student,"Biology, Guitar",Kolkata,1.8
+Ishaan Kumar,Student,"Guitar, Economics",Mumbai,4.8
+Aisha Verma,Tutor,"Economics, Biology",Bangalore,3.0
+Vikram Iyer,Student,"Physics, Guitar, Economics",Bangalore,3.6
+Rohan Verma,Student,"Chemistry, Economics",Lucknow,3.6
+Meera Sharma,Student,Maths,Kolkata,2.5
+Priya Singh,Institution,"Physics, Guitar",Chennai,3.3
+Rahul Reddy,Institution,"Chemistry, Economics, Maths",Bangalore,4.1
+Nikhil Verma,Tutor,"Biology, Economics",Mumbai,4.6
+Arjun Verma,Student,"Maths, Chemistry",Kolkata,1.3
+Kriti Sharma,Institution,"Maths, Guitar, Biology",Ahmedabad,3.6
+Meera Reddy,Institution,"Biology, Chemistry, Economics",Bangalore,1.4
+Vikram Verma,Institution,Chemistry,Lucknow,4.1
+Arjun Sharma,Tutor,"Maths, Guitar",Lucknow,3.6
+Aryan Sharma,Tutor,"Physics, Chemistry",Mumbai,3.2
+Dev Sharma,Tutor,"Chemistry, Guitar, Economics",Lucknow,2.7
+Zoya Reddy,Student,"Chemistry, Guitar",Lucknow,4.0
+Vikram Sharma,Tutor,Physics,Bangalore,4.8
+Tanya Singh,Student,"Physics, Economics",Chennai,2.4
+Kriti Singh,Institution,"Maths, Physics, Chemistry",Mumbai,2.0
+Kabir Kumar,Institution,"Biology, Maths",Lucknow,1.0
+Nikhil Iyer,Student,"Economics, Guitar, Chemistry",Hyderabad,4.9
+Dev Sharma,Institution,"Maths, Physics",Kolkata,3.0
+Priya Singh,Tutor,Maths,Mumbai,4.1
+Kabir Iyer,Institution,"Guitar, Physics",Hyderabad,1.0
+Aryan Kumar,Institution,"Chemistry, Biology, Physics",Hyderabad,2.3
+Rohan Iyer,Tutor,"Physics, Biology, Maths",Ahmedabad,1.8
+Rahul Iyer,Tutor,"Economics, Biology, Maths",Lucknow,3.4
+Kabir Singh,Tutor,"Economics, Biology",Lucknow,2.2
+Meera Singh,Institution,"Maths, Chemistry, Physics",Pune,2.3
+Sanya Singh,Student,"Physics, Economics",Pune,4.9
+Kriti Sharma,Institution,"Economics, Biology, Maths",Delhi,1.4
+Aditya Kumar,Institution,Biology,Mumbai,3.0
+Priya Verma,Institution,"Chemistry, Biology, Economics",Mumbai,1.6
+Dev Verma,Tutor,"Guitar, Chemistry, Physics",Jaipur,1.8
+Rahul Sharma,Student,Chemistry,Hyderabad,4.0
+Vikram Iyer,Institution,Guitar,Bangalore,4.1
+Simran Sharma,Tutor,"Economics, Chemistry, Maths",Kolkata,3.4
+Rahul Kumar,Tutor,Physics,Pune,3.6
+Arjun Reddy,Institution,"Maths, Guitar",Chennai,1.2
+Rahul Iyer,Tutor,Chemistry,Chennai,4.5
+Sanya Singh,Student,Biology,Pune,4.8
+Ishaan Iyer,Institution,"Physics, Chemistry",Chennai,4.7
+Aryan Sharma,Tutor,Chemistry,Pune,3.7
+Kabir Singh,Tutor,Biology,Delhi,4.6
+Kriti Kumar,Student,"Maths, Biology, Chemistry",Bangalore,2.6
+Nikhil Kumar,Tutor,"Maths, Chemistry, Economics",Jaipur,4.8
+Rohan Kumar,Institution,Guitar,Hyderabad,2.1
+Kabir Sharma,Student,Maths,Hyderabad,3.2
+Meera Singh,Tutor,"Biology, Physics, Chemistry",Chennai,2.8
+Sanya Kumar,Tutor,"Chemistry, Physics",Bangalore,1.2
+Aisha Verma,Student,"Biology, Chemistry",Ahmedabad,1.1
+Vikram Verma,Student,Economics,Lucknow,4.1
+Aditya Verma,Student,Maths,Pune,2.0
+Kabir Kumar,Tutor,"Guitar, Physics",Jaipur,4.1
+Kriti Verma,Student,"Economics, Chemistry",Kolkata,1.3
+Nikhil Verma,Student,"Physics, Maths, Economics",Pune,4.1
+Kriti Sharma,Tutor,"Guitar, Biology, Chemistry",Kolkata,4.2
+Ananya Reddy,Student,Maths,Hyderabad,3.6
+Kriti Verma,Tutor,"Maths, Economics, Biology",Chennai,3.6
+Tanya Iyer,Institution,Chemistry,Chennai,4.4
+Priya Iyer,Institution,"Physics, Biology",Mumbai,2.0
+Kabir Verma,Tutor,Maths,Chennai,3.2
+Dev Reddy,Tutor,Physics,Pune,4.3
+Simran Sharma,Student,Economics,Hyderabad,1.3
+Kabir Sharma,Institution,"Guitar, Chemistry, Economics",Bangalore,1.4
+Arjun Sharma,Tutor,"Maths, Economics",Mumbai,3.3
+Priya Verma,Student,"Chemistry, Economics",Ahmedabad,1.1
+Sanya Kumar,Student,Economics,Hyderabad,3.5
+Kabir Kumar,Student,"Chemistry, Guitar, Economics",Bangalore,3.0
+Simran Iyer,Student,"Guitar, Maths",Hyderabad,2.0
+Rahul Reddy,Institution,"Maths, Chemistry",Delhi,2.2
+Dev Verma,Institution,"Biology, Physics",Lucknow,1.4
+Rahul Kumar,Institution,"Guitar, Maths, Chemistry",Hyderabad,1.8
+Zoya Sharma,Institution,"Guitar, Economics",Ahmedabad,4.6
+Sanya Singh,Tutor,Biology,Jaipur,2.9
+Simran Iyer,Student,"Chemistry, Physics",Hyderabad,1.8
+Kabir Reddy,Tutor,"Physics, Economics",Lucknow,4.1
+Ishaan Sharma,Tutor,"Maths, Biology",Pune,2.8
+Tanya Verma,Institution,Guitar,Mumbai,3.4
+Priya Verma,Institution,"Maths, Chemistry",Mumbai,2.5
+Simran Reddy,Institution,"Chemistry, Physics",Jaipur,2.2
+Ananya Verma,Institution,"Chemistry, Maths, Guitar",Kolkata,2.3
+Arjun Sharma,Student,"Economics, Maths",Jaipur,3.9
+Sanya Sharma,Student,"Guitar, Physics",Delhi,2.1
+Rohan Reddy,Tutor,"Biology, Chemistry",Jaipur,2.2
+Aisha Verma,Student,"Guitar, Chemistry, Maths",Bangalore,5.0
+Kabir Iyer,Student,"Chemistry, Economics, Guitar",Mumbai,4.1
+Nikhil Verma,Tutor,"Maths, Guitar, Biology",Lucknow,2.2
+Ishaan Iyer,Student,"Guitar, Economics",Bangalore,3.1
+Tanya Singh,Tutor,"Maths, Chemistry, Economics",Chennai,1.3
+Nikhil Singh,Tutor,"Guitar, Chemistry",Bangalore,4.3
+Vikram Reddy,Student,"Biology, Chemistry",Kolkata,4.0
+Aditya Verma,Student,"Guitar, Biology",Jaipur,3.9
+Meera Verma,Tutor,Chemistry,Jaipur,3.2
+Sanya Sharma,Tutor,Maths,Bangalore,4.3
+Simran Kumar,Institution,"Economics, Biology",Lucknow,4.8
+Rohan Singh,Student,"Biology, Maths, Physics",Bangalore,3.8
+Sanya Iyer,Student,Economics,Mumbai,4.4
+Vikram Iyer,Tutor,"Biology, Guitar, Chemistry",Lucknow,1.6
+Zoya Reddy,Student,"Maths, Chemistry",Bangalore,1.1
+Sanya Singh,Student,"Physics, Biology",Bangalore,4.9
+Arjun Iyer,Institution,"Biology, Chemistry",Mumbai,4.3
+Neha Singh,Institution,"Economics, Maths",Delhi,3.0
+Aisha Kumar,Institution,"Maths, Chemistry, Economics",Bangalore,2.6
+Sanya Singh,Institution,"Physics, Economics, Maths",Bangalore,1.9
+Kabir Sharma,Tutor,Economics,Ahmedabad,3.1
+Dev Singh,Institution,"Economics, Guitar",Delhi,3.6
+Rahul Reddy,Tutor,"Maths, Chemistry, Economics",Hyderabad,1.0
+Simran Reddy,Tutor,"Maths, Chemistry, Biology",Hyderabad,4.3
+Kabir Sharma,Institution,"Economics, Physics, Maths",Chennai,2.0
+Rahul Sharma,Institution,"Chemistry, Guitar, Physics",Kolkata,1.5
+Tanya Iyer,Institution,"Physics, Biology, Chemistry",Delhi,3.4
+Aryan Kumar,Student,"Biology, Chemistry, Economics",Chennai,3.0
+Vikram Reddy,Tutor,"Maths, Economics, Chemistry",Hyderabad,1.3
+Aryan Kumar,Institution,"Maths, Biology",Bangalore,2.5
+Zoya Kumar,Institution,"Guitar, Biology, Physics",Delhi,2.7
+Vikram Verma,Tutor,"Chemistry, Maths, Physics",Jaipur,1.1
+Neha Reddy,Student,Chemistry,Bangalore,2.9
+Ishaan Verma,Institution,"Guitar, Economics",Hyderabad,2.1
+Meera Singh,Tutor,"Economics, Chemistry",Ahmedabad,4.3
+Aryan Singh,Student,Maths,Mumbai,2.0
+Kriti Singh,Student,Maths,Mumbai,2.9
+Priya Verma,Institution,"Economics, Biology, Maths",Ahmedabad,1.5
+Zoya Verma,Tutor,Guitar,Pune,2.0
+Rahul Iyer,Institution,Economics,Chennai,1.4
+Ishaan Iyer,Tutor,Physics,Ahmedabad,4.4
+Nikhil Singh,Institution,"Biology, Economics, Guitar",Pune,2.5
+Neha Reddy,Institution,Guitar,Ahmedabad,2.1
+Dev Kumar,Institution,Biology,Pune,4.5
+Vikram Iyer,Tutor,"Guitar, Physics, Maths",Lucknow,3.8
+Kabir Kumar,Tutor,"Physics, Biology, Economics",Lucknow,4.8
+Neha Reddy,Tutor,Physics,Mumbai,1.2
+Sanya Iyer,Tutor,"Physics, Biology, Guitar",Hyderabad,3.5
+Zoya Verma,Tutor,"Maths, Guitar, Physics",Mumbai,4.0
+Dev Sharma,Institution,Chemistry,Mumbai,1.4
+Kabir Kumar,Institution,"Chemistry, Economics",Mumbai,4.5
+Ishaan Kumar,Institution,"Biology, Chemistry, Physics",Bangalore,3.5
+Kabir Reddy,Student,"Maths, Biology, Chemistry",Chennai,2.4
+Rahul Sharma,Tutor,"Biology, Chemistry, Maths",Jaipur,3.1
+Ananya Iyer,Institution,Biology,Hyderabad,1.7
+Aditya Kumar,Student,"Biology, Economics",Delhi,5.0
+Ananya Iyer,Institution,Guitar,Hyderabad,4.5
+Neha Verma,Student,"Maths, Chemistry",Kolkata,1.4
+Sanya Reddy,Institution,Physics,Ahmedabad,4.6
+Aryan Reddy,Institution,Biology,Kolkata,2.4
+Tanya Singh,Tutor,Biology,Hyderabad,1.1
+Arjun Reddy,Tutor,"Economics, Biology, Chemistry",Bangalore,3.7
+Kabir Sharma,Student,"Maths, Economics",Ahmedabad,4.8
+Priya Sharma,Institution,Chemistry,Pune,1.5
+Dev Verma,Student,"Chemistry, Maths",Delhi,3.2
+Priya Iyer,Student,"Maths, Guitar",Delhi,3.6
+Vikram Sharma,Tutor,"Physics, Chemistry, Biology",Lucknow,1.1
+Vikram Reddy,Student,"Biology, Maths, Economics",Jaipur,4.3
+Aryan Iyer,Student,"Economics, Chemistry",Mumbai,3.1
+Tanya Singh,Institution,"Biology, Economics, Guitar",Delhi,1.4
+Simran Sharma,Tutor,"Guitar, Biology, Maths",Pune,3.4
+Arjun Kumar,Institution,"Biology, Chemistry",Delhi,2.5
+Nikhil Sharma,Student,Economics,Hyderabad,2.0
+Rohan Verma,Institution,Biology,Delhi,4.9
+Aryan Kumar,Tutor,Biology,Ahmedabad,4.5
+Tanya Kumar,Institution,"Physics, Economics",Kolkata,1.6
+Vikram Iyer,Institution,Physics,Mumbai,5.0
+Meera Reddy,Institution,Guitar,Pune,4.2
+Tanya Verma,Institution,Economics,Bangalore,2.0
+Priya Iyer,Tutor,Maths,Delhi,4.1
+Ananya Sharma,Tutor,"Chemistry, Physics",Chennai,4.8
+Rahul Singh,Tutor,"Maths, Physics",Kolkata,2.6
+Dev Reddy,Student,"Guitar, Maths, Physics",Delhi,3.6
+Rohan Singh,Student,Chemistry,Hyderabad,4.3
+Aisha Sharma,Student,"Guitar, Maths, Economics",Pune,1.5
+Aditya Kumar,Student,Economics,Ahmedabad,3.6
+Arjun Iyer,Tutor,"Chemistry, Biology, Maths",Ahmedabad,3.3
+Kriti Iyer,Institution,"Chemistry, Guitar, Physics",Mumbai,1.8
+Aisha Kumar,Student,"Economics, Physics, Chemistry",Pune,4.5
+Sanya Verma,Student,Guitar,Lucknow,1.5
+Priya Verma,Institution,"Guitar, Economics",Delhi,3.1
+Rohan Sharma,Student,Chemistry,Mumbai,4.9
+Rohan Singh,Student,Economics,Lucknow,2.6
+Rohan Singh,Institution,"Physics, Maths, Biology",Hyderabad,2.9
+Zoya Sharma,Tutor,"Physics, Biology, Economics",Ahmedabad,3.6
+Vikram Singh,Institution,"Biology, Maths",Delhi,3.8
+Ananya Iyer,Tutor,"Chemistry, Biology, Maths",Mumbai,3.2
+Kriti Iyer,Tutor,"Maths, Guitar, Physics",Kolkata,3.5
+Meera Reddy,Institution,"Economics, Biology",Kolkata,1.8
+Vikram Singh,Institution,Physics,Delhi,1.5
+Tanya Kumar,Institution,Guitar,Mumbai,1.8
+Zoya Kumar,Student,"Biology, Guitar",Ahmedabad,4.6
+Simran Singh,Tutor,"Biology, Maths, Guitar",Chennai,4.1
+Aditya Verma,Student,"Economics, Biology",Jaipur,5.0
+Zoya Verma,Tutor,"Guitar, Chemistry, Biology",Delhi,4.0
+Priya Kumar,Student,"Biology, Chemistry",Delhi,3.9
+Simran Singh,Tutor,Guitar,Pune,3.4
+Dev Kumar,Tutor,"Maths, Chemistry",Ahmedabad,2.9
+Kabir Singh,Institution,"Guitar, Biology",Kolkata,4.5
+Nikhil Reddy,Student,"Biology, Guitar, Maths",Ahmedabad,3.9
+Dev Iyer,Student,"Chemistry, Physics, Biology",Lucknow,3.9
+Nikhil Kumar,Tutor,"Chemistry, Guitar",Hyderabad,1.7
+Kabir Reddy,Student,Maths,Hyderabad,3.9
+Kriti Sharma,Institution,"Chemistry, Physics",Kolkata,2.9
+Nikhil Verma,Tutor,Guitar,Chennai,2.5
+Arjun Kumar,Institution,Biology,Kolkata,2.5
+Zoya Singh,Institution,Economics,Pune,3.3
+Aryan Iyer,Student,Guitar,Jaipur,2.5
+Meera Singh,Institution,"Economics, Maths, Physics",Lucknow,3.1
+Ishaan Singh,Student,Biology,Jaipur,2.3
+Kabir Verma,Tutor,"Economics, Chemistry, Guitar",Delhi,1.9
+Tanya Reddy,Tutor,"Chemistry, Guitar, Maths",Chennai,1.2
+Aditya Iyer,Tutor,Maths,Bangalore,3.4
+Neha Singh,Tutor,Physics,Hyderabad,2.4
+Ananya Verma,Student,Biology,Delhi,4.8
+Meera Verma,Institution,"Chemistry, Biology, Guitar",Lucknow,4.1
+Neha Kumar,Institution,Physics,Ahmedabad,1.2
+Ishaan Kumar,Tutor,"Biology, Chemistry",Delhi,3.5
+Dev Reddy,Student,"Chemistry, Guitar",Mumbai,4.9
+Nikhil Verma,Tutor,"Physics, Chemistry, Maths",Lucknow,1.8
+Kabir Iyer,Student,Chemistry,Ahmedabad,4.4
+Arjun Kumar,Tutor,Physics,Ahmedabad,1.5
+Sanya Verma,Institution,"Physics, Chemistry",Hyderabad,3.9
+Aisha Kumar,Student,"Maths, Economics, Biology",Delhi,2.4
+Priya Kumar,Tutor,Biology,Bangalore,4.5
+Vikram Verma,Student,"Guitar, Biology, Maths",Lucknow,2.3
+Arjun Reddy,Student,"Guitar, Biology, Physics",Ahmedabad,1.6
+Arjun Iyer,Institution,Economics,Hyderabad,1.8
+Sanya Verma,Student,"Guitar, Maths, Chemistry",Ahmedabad,3.7
+Sanya Singh,Student,"Guitar, Physics",Jaipur,1.1
+Tanya Singh,Student,Maths,Lucknow,4.8
+Ishaan Kumar,Institution,Biology,Kolkata,2.0
+Aditya Verma,Institution,Economics,Jaipur,4.5
+Priya Sharma,Tutor,"Chemistry, Economics, Guitar",Chennai,2.6
+Ishaan Iyer,Tutor,Physics,Delhi,1.9
+Ishaan Singh,Tutor,"Economics, Physics",Delhi,3.5
+Meera Iyer,Student,"Guitar, Chemistry, Economics",Bangalore,3.9
+Dev Sharma,Tutor,"Economics, Physics",Bangalore,3.8
+Tanya Sharma,Institution,"Maths, Guitar",Ahmedabad,2.2
+Aryan Kumar,Tutor,"Maths, Economics, Guitar",Jaipur,2.3
+Arjun Reddy,Institution,Guitar,Bangalore,2.3
+Arjun Sharma,Tutor,"Physics, Guitar, Economics",Pune,2.6
+Simran Kumar,Tutor,"Economics, Guitar",Hyderabad,4.9
+Sanya Iyer,Institution,Maths,Jaipur,2.5
+Arjun Verma,Institution,Chemistry,Kolkata,2.1
+Simran Singh,Tutor,"Guitar, Biology",Ahmedabad,2.7
+Aditya Verma,Student,"Chemistry, Maths, Physics",Ahmedabad,3.0
+Aisha Reddy,Institution,"Economics, Maths",Hyderabad,1.2
+Kriti Kumar,Tutor,Chemistry,Jaipur,4.6
+Ishaan Reddy,Student,"Maths, Guitar",Bangalore,1.5
+Dev Iyer,Institution,"Physics, Economics",Kolkata,4.6
+Zoya Verma,Institution,"Economics, Guitar, Biology",Ahmedabad,4.7
+Zoya Reddy,Tutor,"Biology, Maths, Chemistry",Hyderabad,1.7
+Aryan Kumar,Tutor,Physics,Chennai,4.9
+Priya Kumar,Tutor,"Physics, Guitar",Lucknow,2.5
+Simran Iyer,Tutor,"Guitar, Biology",Kolkata,4.7
+Simran Reddy,Tutor,"Physics, Economics, Maths",Chennai,1.8
+Zoya Verma,Institution,"Maths, Guitar, Chemistry",Mumbai,1.2
+Aisha Sharma,Student,Biology,Bangalore,4.8
+Kabir Singh,Institution,"Chemistry, Guitar, Biology",Ahmedabad,5.0
+Arjun Iyer,Tutor,"Maths, Biology, Economics",Pune,1.3
+Aryan Iyer,Institution,"Maths, Physics, Economics",Jaipur,4.1
+Neha Kumar,Tutor,"Economics, Physics",Jaipur,4.8
+Rohan Kumar,Student,"Physics, Economics, Chemistry",Lucknow,2.7
+Aditya Kumar,Tutor,Biology,Ahmedabad,1.3
+Zoya Sharma,Student,Economics,Bangalore,4.8
+Rohan Reddy,Student,Maths,Jaipur,4.3
+Kabir Singh,Tutor,Chemistry,Delhi,3.9
+Meera Sharma,Tutor,"Guitar, Economics, Physics",Hyderabad,1.3
+Ananya Iyer,Institution,"Guitar, Biology, Physics",Pune,2.8
+Meera Sharma,Institution,"Biology, Guitar, Physics",Ahmedabad,2.6
+Aryan Verma,Student,"Maths, Physics, Economics",Ahmedabad,1.5
+Sanya Iyer,Institution,Chemistry,Hyderabad,3.0
+Kabir Reddy,Student,"Biology, Maths, Guitar",Pune,4.8
+Sanya Iyer,Student,"Chemistry, Economics, Maths",Ahmedabad,1.2
+Neha Sharma,Institution,Guitar,Lucknow,4.5
+Tanya Kumar,Institution,Economics,Bangalore,3.7
+Nikhil Verma,Institution,"Biology, Chemistry, Maths",Lucknow,4.7
+Aisha Sharma,Institution,"Economics, Biology",Jaipur,1.2
+Meera Singh,Student,"Maths, Chemistry, Biology",Chennai,3.5
+Nikhil Verma,Institution,"Maths, Guitar, Economics",Hyderabad,4.9
+Kabir Reddy,Institution,"Guitar, Economics, Chemistry",Mumbai,4.4
+Meera Verma,Institution,Economics,Hyderabad,1.5
+Priya Reddy,Institution,"Biology, Chemistry",Hyderabad,3.7
+Vikram Sharma,Student,"Maths, Guitar, Chemistry",Bangalore,3.9
+Nikhil Kumar,Institution,"Chemistry, Biology",Kolkata,2.6
+Tanya Singh,Institution,"Guitar, Chemistry",Hyderabad,4.5
+Neha Verma,Student,"Economics, Maths, Guitar",Lucknow,3.9
+Kabir Kumar,Student,Maths,Delhi,3.0
+Aditya Verma,Student,"Chemistry, Guitar",Ahmedabad,4.6
+Kabir Iyer,Tutor,Biology,Ahmedabad,4.7
+Simran Sharma,Institution,Economics,Lucknow,1.2
+Kriti Iyer,Institution,"Guitar, Economics",Pune,3.0
+Kabir Reddy,Student,"Chemistry, Economics",Bangalore,1.5
+Aryan Reddy,Tutor,"Physics, Maths",Ahmedabad,1.3
+Neha Singh,Student,"Chemistry, Guitar, Economics",Kolkata,3.0
+Ishaan Sharma,Tutor,"Chemistry, Maths, Guitar",Pune,2.7
+Aryan Sharma,Student,"Maths, Chemistry, Economics",Jaipur,1.7
+Neha Sharma,Tutor,"Chemistry, Economics, Biology",Bangalore,3.2
+Kabir Iyer,Student,"Economics, Physics",Kolkata,2.2
+Meera Iyer,Institution,"Guitar, Chemistry, Maths",Delhi,3.5
+Dev Reddy,Tutor,"Maths, Biology",Kolkata,1.4
+Vikram Sharma,Tutor,"Maths, Guitar",Ahmedabad,3.6
+Aditya Kumar,Institution,"Chemistry, Guitar",Pune,1.5
+Aryan Sharma,Institution,"Maths, Economics",Delhi,4.1
+Dev Sharma,Student,"Guitar, Economics, Physics",Pune,4.1
+Kriti Singh,Institution,"Chemistry, Economics, Biology",Pune,3.9
+Rohan Verma,Institution,"Guitar, Chemistry",Bangalore,1.9
+Aryan Kumar,Institution,"Maths, Chemistry",Jaipur,3.3
+Ananya Iyer,Tutor,"Guitar, Maths",Lucknow,4.0
+Aryan Iyer,Tutor,"Guitar, Maths, Physics",Chennai,2.5
+Meera Verma,Institution,Physics,Chennai,2.6
+Dev Kumar,Institution,"Physics, Maths, Chemistry",Kolkata,3.7
+Vikram Singh,Institution,"Guitar, Physics",Jaipur,3.1
+Aryan Iyer,Institution,"Maths, Biology, Economics",Hyderabad,4.0
+Arjun Kumar,Tutor,"Biology, Economics, Physics",Chennai,3.8
+Aditya Verma,Tutor,"Physics, Economics",Jaipur,4.3
+Tanya Reddy,Student,Biology,Ahmedabad,1.1
+Priya Sharma,Institution,Chemistry,Hyderabad,4.2
+Kabir Kumar,Tutor,"Guitar, Chemistry",Hyderabad,2.0
+Zoya Reddy,Student,"Physics, Maths, Guitar",Pune,4.6
+Nikhil Verma,Tutor,"Chemistry, Biology, Economics",Jaipur,1.8
+Neha Iyer,Institution,"Physics, Economics",Delhi,4.6
+Rohan Verma,Institution,"Physics, Guitar, Maths",Jaipur,3.9
+Rohan Verma,Tutor,Chemistry,Lucknow,4.2
+Rohan Verma,Tutor,Biology,Ahmedabad,1.6
+Nikhil Verma,Institution,Biology,Kolkata,2.2
+Aryan Sharma,Institution,"Biology, Physics, Economics",Chennai,4.6
+Ishaan Verma,Institution,"Physics, Maths",Pune,4.4
+Rahul Sharma,Institution,Maths,Kolkata,3.3
+Arjun Verma,Institution,"Physics, Economics, Guitar",Ahmedabad,2.1
+Simran Reddy,Student,"Economics, Guitar",Chennai,1.2
+Sanya Sharma,Tutor,"Biology, Physics",Bangalore,3.9
+Aryan Singh,Student,Maths,Chennai,2.4
+Tanya Singh,Institution,"Maths, Physics",Chennai,1.4
+Aryan Sharma,Institution,Maths,Delhi,3.7
+Rohan Sharma,Student,"Economics, Chemistry, Biology",Lucknow,3.5
+Zoya Sharma,Institution,Biology,Ahmedabad,4.9
+Aisha Singh,Student,"Economics, Biology",Lucknow,3.8
+Tanya Singh,Institution,Physics,Kolkata,2.8
+Aditya Iyer,Tutor,"Chemistry, Economics, Biology",Jaipur,3.5
+Priya Iyer,Student,"Chemistry, Guitar, Biology",Jaipur,2.4
+Tanya Reddy,Tutor,"Maths, Physics",Ahmedabad,1.2
+Rahul Kumar,Institution,"Economics, Chemistry, Guitar",Hyderabad,1.2
+Rahul Reddy,Institution,"Maths, Economics, Chemistry",Chennai,4.7
+Ananya Reddy,Student,Guitar,Bangalore,3.5
+Rahul Sharma,Institution,"Chemistry, Guitar, Biology",Chennai,1.8
+Aryan Verma,Student,"Economics, Chemistry, Biology",Jaipur,4.7
+Zoya Reddy,Tutor,"Physics, Economics, Maths",Bangalore,3.2
+Ishaan Iyer,Tutor,Guitar,Mumbai,4.4
+Tanya Reddy,Institution,Physics,Lucknow,1.7
+Vikram Kumar,Student,"Guitar, Biology",Delhi,1.9
+Simran Verma,Institution,Physics,Hyderabad,3.0
+Nikhil Iyer,Student,Maths,Hyderabad,3.7
+Neha Singh,Tutor,"Guitar, Maths, Physics",Ahmedabad,4.9
+Arjun Kumar,Institution,Maths,Chennai,2.3
+Meera Singh,Institution,"Economics, Guitar, Physics",Delhi,2.6
+Aryan Sharma,Tutor,"Biology, Chemistry, Guitar",Mumbai,1.5
+Dev Iyer,Tutor,Chemistry,Chennai,4.1
+Sanya Kumar,Student,Economics,Jaipur,3.2
+Kriti Verma,Student,Biology,Delhi,4.4
+Sanya Iyer,Tutor,"Economics, Physics",Kolkata,4.4
+Kabir Kumar,Tutor,Physics,Chennai,1.1
+Aryan Singh,Tutor,Economics,Mumbai,1.8
+Ananya Kumar,Institution,Biology,Mumbai,4.3
+Arjun Verma,Institution,"Guitar, Biology",Kolkata,3.4
+Kriti Kumar,Student,"Economics, Biology, Maths",Hyderabad,2.4
+Ananya Kumar,Tutor,"Chemistry, Biology, Guitar",Jaipur,2.1
+Zoya Verma,Institution,"Physics, Biology",Jaipur,2.0
+Arjun Singh,Institution,"Guitar, Physics, Maths",Bangalore,3.1
+Rahul Verma,Tutor,"Physics, Economics",Delhi,4.8
+Kriti Kumar,Student,Chemistry,Chennai,3.3
+Rahul Iyer,Tutor,"Guitar, Maths",Ahmedabad,4.6
+Priya Reddy,Institution,Guitar,Hyderabad,2.2
+Nikhil Sharma,Institution,Economics,Hyderabad,4.8
+Kabir Sharma,Student,"Biology, Guitar, Maths",Jaipur,4.6
+Tanya Verma,Tutor,"Guitar, Chemistry, Biology",Jaipur,4.1
+Aryan Sharma,Institution,"Biology, Guitar",Mumbai,2.2
+Rohan Verma,Tutor,Biology,Hyderabad,2.5
+Tanya Sharma,Student,"Chemistry, Guitar, Economics",Delhi,3.8
+Nikhil Reddy,Institution,"Maths, Physics, Chemistry",Delhi,1.2
+Ishaan Kumar,Tutor,"Chemistry, Physics, Guitar",Mumbai,3.7
+Rahul Kumar,Student,Chemistry,Chennai,3.0
+Aditya Sharma,Student,"Economics, Physics, Guitar",Lucknow,4.1
+Arjun Sharma,Student,"Biology, Economics",Ahmedabad,4.9
+Aditya Reddy,Student,"Economics, Physics, Chemistry",Lucknow,1.2
+Vikram Singh,Institution,"Guitar, Biology, Economics",Kolkata,5.0
+Tanya Iyer,Student,"Physics, Chemistry",Bangalore,4.6
+Rahul Iyer,Institution,"Biology, Economics, Maths",Pune,2.2
+Aryan Singh,Institution,"Chemistry, Economics, Biology",Delhi,2.3
+Simran Kumar,Institution,Physics,Hyderabad,2.0
+Aditya Kumar,Institution,"Maths, Physics, Economics",Delhi,3.1
+Aditya Kumar,Tutor,"Chemistry, Physics, Maths",Hyderabad,1.6
+Tanya Singh,Tutor,Economics,Hyderabad,4.3
+Priya Singh,Institution,Physics,Lucknow,1.5
+Kriti Kumar,Student,Chemistry,Pune,3.2
+Vikram Iyer,Student,"Economics, Biology, Maths",Jaipur,1.4
+Neha Sharma,Tutor,"Physics, Maths",Hyderabad,2.4
+Ishaan Singh,Student,"Maths, Guitar",Ahmedabad,2.3
+Rahul Kumar,Student,Biology,Chennai,3.0
+Arjun Kumar,Institution,Chemistry,Chennai,2.5
+Rohan Sharma,Tutor,"Economics, Biology, Guitar",Bangalore,3.2
+Aryan Singh,Institution,Biology,Chennai,3.4
+Aditya Iyer,Tutor,"Guitar, Economics, Physics",Lucknow,4.4
+Ishaan Sharma,Institution,"Maths, Economics, Physics",Bangalore,2.7
+Rahul Iyer,Tutor,Biology,Ahmedabad,2.3
+Ishaan Verma,Student,Maths,Ahmedabad,4.3
+Nikhil Sharma,Student,"Biology, Physics",Pune,1.7
+Simran Kumar,Tutor,"Economics, Maths",Jaipur,4.2
+Sanya Sharma,Student,Economics,Hyderabad,2.9
+Priya Verma,Institution,"Physics, Guitar",Pune,1.3
+Rahul Sharma,Student,"Maths, Guitar",Chennai,3.2
+Rohan Singh,Student,"Physics, Maths",Pune,1.0
+Kabir Sharma,Student,Guitar,Pune,2.8
+Vikram Verma,Tutor,"Guitar, Maths, Economics",Jaipur,4.6
+Simran Sharma,Institution,Chemistry,Delhi,4.1
+Ananya Iyer,Institution,Physics,Jaipur,3.3
+Kabir Verma,Tutor,"Chemistry, Economics",Pune,1.5
+Meera Kumar,Institution,"Biology, Guitar, Chemistry",Jaipur,3.5
+Aisha Sharma,Tutor,"Biology, Guitar, Maths",Jaipur,3.0
+Dev Kumar,Student,"Guitar, Maths, Biology",Hyderabad,1.9
+Priya Reddy,Institution,"Biology, Chemistry, Economics",Lucknow,5.0
+Arjun Kumar,Institution,Biology,Hyderabad,1.1
+Priya Singh,Tutor,Economics,Jaipur,2.8
+Priya Reddy,Student,"Guitar, Economics",Delhi,3.3
+Nikhil Verma,Student,Biology,Delhi,4.1
+Ananya Reddy,Tutor,Economics,Chennai,3.5
+Ananya Reddy,Tutor,"Biology, Physics",Mumbai,3.7
+Nikhil Sharma,Tutor,"Economics, Maths",Mumbai,1.8
+Ishaan Sharma,Tutor,Economics,Hyderabad,1.6
+Arjun Reddy,Student,Maths,Chennai,2.5
+Priya Singh,Institution,Economics,Hyderabad,3.1
+Rahul Verma,Tutor,"Biology, Guitar",Delhi,1.1
+Nikhil Iyer,Tutor,"Chemistry, Physics",Hyderabad,4.4
+Aditya Sharma,Student,"Guitar, Maths",Hyderabad,2.9
+Kriti Sharma,Tutor,Physics,Ahmedabad,1.0
+Neha Kumar,Institution,"Guitar, Physics, Biology",Hyderabad,1.1
+Kabir Iyer,Institution,"Biology, Maths",Delhi,1.8
+Zoya Singh,Student,Guitar,Pune,3.0
+Rahul Kumar,Student,"Guitar, Economics",Chennai,2.9
+Sanya Kumar,Student,"Chemistry, Physics",Mumbai,1.8
+Rahul Iyer,Student,"Economics, Chemistry",Hyderabad,4.2
+"Swap","King@kolkata.com","12345678","999999999","Bengal","Chemistry","Student","None"
